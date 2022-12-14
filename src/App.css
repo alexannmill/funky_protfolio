@@ -1,0 +1,36 @@
+@import "open-props/style";
+
+.navbar {
+  font-weight: 800;
+  height: 10vh;
+  opacity: 95%;
+  background-color: violet;
+  color: white;
+  border-radius: 2px;
+}
+
+#basic-navbar-nav{ 
+ background-color: violet;
+ opacity: 95%;
+ border-radius: 2px;
+
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact a {
+  margin: 2px;
+}
+
+
+.projects {
+  color: black;
+  text-align: -webkit-center;
+}
+
+.card {
+ border-radius: 20px;
+}
